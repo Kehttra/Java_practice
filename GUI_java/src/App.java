@@ -9,6 +9,6 @@ public class App {
         
         
         Myframe _mainMyframe = new Myframe();
-        _mainMyframe._visibleFrame = true;
+        
     }
 }
