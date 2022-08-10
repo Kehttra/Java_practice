@@ -11,7 +11,7 @@ public class Myframe extends JFrame{
         String _mainTitle = "Java Test GUI";
         ImageIcon _logo = new ImageIcon("images/orb_image.png");
         boolean _resize = true;
-        boolean _visibleFrame = false;
+        boolean _visibleFrame = true;
         Color _color = new Color(0,0,0);
 
 
