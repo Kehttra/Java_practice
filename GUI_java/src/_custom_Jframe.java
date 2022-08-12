@@ -1,9 +1,8 @@
 import java.awt.*;
 
-import javax.swing.ImageIcon;
-import javax.swing.JFrame;
+import javax.swing.*;
 
-public class Myframe extends JFrame{
+public class _custom_Jframe extends JFrame{
     
      //Variable declaractions
         //Can be changed by user later on
@@ -16,14 +15,14 @@ public class Myframe extends JFrame{
 
 
 
-    Myframe()
+    _custom_Jframe()
     {
         _width = 700; 
         _height = 500;
         _mainTitle = "Java Test GUI";
         _resize = true;
-        _visibleFrame = true;
-        _color = new Color(66, 66, 66);
+        _visibleFrame = false;
+        _color = new Color(166, 166, 166);
 
 
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
