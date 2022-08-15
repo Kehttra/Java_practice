@@ -21,7 +21,7 @@ public class _custom_Jlabel extends JLabel
         this.setHorizontalTextPosition(JLabel.CENTER);
         this.setVerticalTextPosition(JLabel.TOP);
         this.setForeground(new Color(123, 55, 250));
-        this.setFont(new Font("Times New Roman", Font.PLAIN, 50));
+        this.setFont(new Font("Times New Roman", Font.PLAIN, 14));
         this.setIconTextGap(10);
         this.setBackground(Color.WHITE);
         this.setOpaque(true); 
